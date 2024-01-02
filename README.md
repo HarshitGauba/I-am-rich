@@ -1,3 +1,3 @@
 ## I am Rich
 
-This is I am Rih app using Swift..
+This is I am Rich app using Swift..
